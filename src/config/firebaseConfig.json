@@ -1,8 +1,8 @@
 {
-  "apiKey": "TBD",
-  "authDomain": "TBD",
-  "databaseURL": "TBD",
-  "projectId": "TBD",
-  "storageBucket": "TBD",
-  "messagingSenderId": "TBD"
+  "apiKey": "AIzaSyAhv8TadkU-JH2IIwaZ39AJoUzfUg2_fX4",
+  "authDomain": "pwa-ppb-ws-09.firebaseapp.com",
+  "databaseURL": "https://pwa-ppb-ws-09.firebaseio.com",
+  "projectId": "pwa-ppb-ws-09",
+  "storageBucket": "pwa-ppb-ws-09.appspot.com",
+  "messagingSenderId": "1044696736262"
 }
